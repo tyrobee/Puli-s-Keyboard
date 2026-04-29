@@ -20,6 +20,13 @@ i built the keyboard with 81 keys and a rotary encoder w a raspberrypi pico as t
 
 ## BOM
 
+| Component | Qty | Link |
+|----------|-----|------|
+| Raspberry Pi Pico | 1 | https://www.raspberrypi.com/products/raspberry-pi-pico/ |
+| Akko Creamy Cyan Switch (45 pcs) | 1 | https://stackskb.com/products/akko-creamy-cyan-switch-pack-of-45-pre-order |
+| Cherry Profile PBT Keycaps | 1 set | https://stackskb.com/collections/keycaps |
+| USB A to Micro USB Cable | 1 | https://robu.in/product/usb-a-to-micro-usb-cable/ |
+| M2 Screws | 4 | https://robu.in/product/m2x4-flat-head-screw/ |
 
 
 

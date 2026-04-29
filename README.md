@@ -20,14 +20,10 @@ i built the keyboard with 81 keys and a rotary encoder w a raspberrypi pico as t
 
 ## BOM
 
-| Component | Qty | Link |
-|----------|-----|------|
-| Raspberry Pi Pico | 1 | https://www.raspberrypi.com/products/raspberry-pi-pico/ |
-| Akko Creamy Cyan Switch (45 pcs) | 1 | https://stackskb.com/products/akko-creamy-cyan-switch-pack-of-45-pre-order |
-| Cherry Profile PBT Keycaps | 1 set | https://stackskb.com/collections/keycaps |
-| USB A to Micro USB Cable | 1 | https://robu.in/product/usb-a-to-micro-usb-cable/ |
-| M2 Screws | 4 | https://robu.in/product/m2x4-flat-head-screw/ |
-
-
-
-
+| Component | Purpose | Qty | Unit Cost ($) | Total ($) | Link | Distributor |
+|----------|--------|-----|--------------|-----------|------|------------|
+| USB A Type to Micro USB B Cable | cable | 1 | 4.24 | 4.24 | https://robu.in/product/usb-a-to-micro-usb-cable/?variant_id=392404020725 | Robu |
+| Screws M2 | connectors | 4 | 0.81 | 3.24 | https://robu.in/product/m2x4-flat-head-screw/?variant_id=3647235850646 | Robu |
+| Raspberry Pi Pico | microcontroller | 1 | 4.21 | 4.21 | https://robu.in/product/raspberry-pi-pico/?variant_id=3920405566007 | Robu |
+| 4x10 Enkeysphere Cherry Profile PBT Keycaps | keycaps | 1 | 21.17 | 21.17 | https://stackskb.com/collections/keycaps/products/4x10-enkeysphere-cherry-profile-pbt-keycaps | StacksKB |
+| Switches (Akko Creamy Cyan) | keys | 40 | 0.37 | 14.80 | https://stackskb.com/products/akko-creamy-cyan-switch-pack-of-45-pre-order | StacksKB |

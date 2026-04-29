@@ -27,3 +27,4 @@ i built the keyboard with 81 keys and a rotary encoder w a raspberrypi pico as t
 | Raspberry Pi Pico | microcontroller | 1 | 4.21 | 4.21 | https://robocraze.com/products/raspberry-pi-pico?variant=40194204860569&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=17937704573&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=17931338845&gbraid=0AAAAADgHQvYy5ICv2k3FTsuabMyJ0fSu1&gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9yaVdQ3fHISi06ooGjh3m9m9IB-P7hm8X7wTPkkNGJwUihs7WsVG1QaAuErEALw_wcB | Robocraze |
 | 4x10 Enkeysphere Cherry Profile PBT Keycaps | keycaps | 1 | 21.17 | 21.17 | https://stackskb.com/store/hemisphere-keycaps/| StacksKB |
 | Switches (Akko Creamy Cyan) | keys | 90 | 0.30 | 27.37 | https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/ | StacksKB |
+|pcb | pcb | 1 |42.64 |42.64 | - | PCB |

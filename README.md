@@ -22,8 +22,8 @@ i built the keyboard with 81 keys and a rotary encoder w a raspberrypi pico as t
 
 | Component | Purpose | Qty | Unit Cost ($) | Total ($) | Link | Distributor |
 |----------|--------|-----|--------------|-----------|------|------------|
-| USB A Type to Micro USB B Cable | cable | 1 | 4.24 | 4.24 | https://robu.in/product/usb-a-to-micro-usb-cable/?variant_id=392404020725 | Robu |
-| Screws M2 | connectors | 4 | 0.81 | 3.24 | https://robu.in/product/m2x4-flat-head-screw/?variant_id=3647235850646 | Robu |
-| Raspberry Pi Pico | microcontroller | 1 | 4.21 | 4.21 | https://robu.in/product/raspberry-pi-pico/?variant_id=3920405566007 | Robu |
-| 4x10 Enkeysphere Cherry Profile PBT Keycaps | keycaps | 1 | 21.17 | 21.17 | https://stackskb.com/collections/keycaps/products/4x10-enkeysphere-cherry-profile-pbt-keycaps | StacksKB |
-| Switches (Akko Creamy Cyan) | keys | 40 | 0.37 | 14.80 | https://stackskb.com/products/akko-creamy-cyan-switch-pack-of-45-pre-order | StacksKB |
+| USB A Type to Micro USB B Cable | cable | 1 | 0.41| 0.41 | https://robocraze.com/products/usb-to-micro-usb-cable?variant=40192442007705 | Robu |
+| female berg pins | connectors | 3 | 0.28 | 0.28 | https://robocraze.com/products/40x1-female-berg-strip?_pos=5&_sid=7dbcf9cbf&_ss=r | robocraze |
+| Raspberry Pi Pico | microcontroller | 1 | 4.21 | 4.21 | https://robocraze.com/products/raspberry-pi-pico?variant=40194204860569&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=17937704573&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=17931338845&gbraid=0AAAAADgHQvYy5ICv2k3FTsuabMyJ0fSu1&gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9yaVdQ3fHISi06ooGjh3m9m9IB-P7hm8X7wTPkkNGJwUihs7WsVG1QaAuErEALw_wcB | Robocraze |
+| 4x10 Enkeysphere Cherry Profile PBT Keycaps | keycaps | 1 | 21.17 | 21.17 | https://stackskb.com/store/hemisphere-keycaps/| StacksKB |
+| Switches (Akko Creamy Cyan) | keys | 90 | 0.30 | 27.37 | https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/ | StacksKB |
